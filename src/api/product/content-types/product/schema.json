@@ -39,6 +39,22 @@
       "allowedTypes": [
         "images"
       ]
+    },
+    "screenSize": {
+      "type": "enumeration",
+      "enum": [
+        "Fourteen inch",
+        "Sixteen inch"
+      ]
+    },
+    "shoeSize": {
+      "type": "enumeration",
+      "enum": [
+        "seven ",
+        "eight",
+        "nine",
+        "ten"
+      ]
     }
   }
 }
